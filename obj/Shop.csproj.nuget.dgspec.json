@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Shop\\Shop.csproj": {}
+    "C:\\Users\\Роман\\source\\repos\\mashabeha\\Project\\Shop.csproj": {}
   },
   "projects": {
-    "D:\\Shop\\Shop.csproj": {
+    "C:\\Users\\Роман\\source\\repos\\mashabeha\\Project\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\Роман\\source\\repos\\mashabeha\\Project\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "D:\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Shop\\obj\\",
+        "projectPath": "C:\\Users\\Роман\\source\\repos\\mashabeha\\Project\\Shop.csproj",
+        "packagesPath": "C:\\Users\\Роман\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Роман\\source\\repos\\mashabeha\\Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Роман\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
